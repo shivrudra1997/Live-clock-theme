@@ -1,2 +1,4 @@
 # Live-clock-theme
-I create the live clock  both dark our white mode  .
+I create the live clock   dark our white mode  . 
+using the HTML ,CSS , JAVASCRIPT 
+
